@@ -1,0 +1,1 @@
+Weather app is a project for Pluralsight's mws track.
